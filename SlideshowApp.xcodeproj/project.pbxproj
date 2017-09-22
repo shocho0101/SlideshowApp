@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CAC28B031F755C0300FE6897 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAC28B021F755C0300FE6897 /* DetailViewController.swift */; };
 		CAF945E61F7173A3008A040E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF945E51F7173A3008A040E /* AppDelegate.swift */; };
 		CAF945E81F7173A3008A040E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF945E71F7173A3008A040E /* ViewController.swift */; };
 		CAF945EB1F7173A3008A040E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAF945E91F7173A3008A040E /* Main.storyboard */; };
@@ -14,6 +15,14 @@
 		CAF945F01F7173A3008A040E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAF945EE1F7173A3008A040E /* LaunchScreen.storyboard */; };
 		CAF945FB1F7173A3008A040E /* SlideshowAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF945FA1F7173A3008A040E /* SlideshowAppTests.swift */; };
 		CAF946061F7173A3008A040E /* SlideshowAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF946051F7173A3008A040E /* SlideshowAppUITests.swift */; };
+		CAF9461B1F717D78008A040E /* neko1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CAF946131F717D78008A040E /* neko1.jpg */; };
+		CAF9461C1F717D78008A040E /* neko2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CAF946141F717D78008A040E /* neko2.jpg */; };
+		CAF9461D1F717D78008A040E /* neko3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CAF946151F717D78008A040E /* neko3.jpg */; };
+		CAF9461E1F717D78008A040E /* neko4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CAF946161F717D78008A040E /* neko4.jpg */; };
+		CAF9461F1F717D78008A040E /* neko5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CAF946171F717D78008A040E /* neko5.jpg */; };
+		CAF946201F717D78008A040E /* neko6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CAF946181F717D78008A040E /* neko6.jpg */; };
+		CAF946211F717D78008A040E /* neko7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CAF946191F717D78008A040E /* neko7.jpg */; };
+		CAF946221F717D78008A040E /* neko8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CAF9461A1F717D78008A040E /* neko8.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CAC28B021F755C0300FE6897 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		CAF945E21F7173A3008A040E /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAF945E51F7173A3008A040E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CAF945E71F7173A3008A040E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +57,14 @@
 		CAF946011F7173A3008A040E /* SlideshowAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlideshowAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAF946051F7173A3008A040E /* SlideshowAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideshowAppUITests.swift; sourceTree = "<group>"; };
 		CAF946071F7173A3008A040E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAF946131F717D78008A040E /* neko1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neko1.jpg; sourceTree = "<group>"; };
+		CAF946141F717D78008A040E /* neko2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neko2.jpg; sourceTree = "<group>"; };
+		CAF946151F717D78008A040E /* neko3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neko3.jpg; sourceTree = "<group>"; };
+		CAF946161F717D78008A040E /* neko4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neko4.jpg; sourceTree = "<group>"; };
+		CAF946171F717D78008A040E /* neko5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neko5.jpg; sourceTree = "<group>"; };
+		CAF946181F717D78008A040E /* neko6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neko6.jpg; sourceTree = "<group>"; };
+		CAF946191F717D78008A040E /* neko7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neko7.jpg; sourceTree = "<group>"; };
+		CAF9461A1F717D78008A040E /* neko8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = neko8.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +115,10 @@
 		CAF945E41F7173A3008A040E /* SlideshowApp */ = {
 			isa = PBXGroup;
 			children = (
+				CAF946231F717D89008A040E /* image */,
 				CAF945E51F7173A3008A040E /* AppDelegate.swift */,
 				CAF945E71F7173A3008A040E /* ViewController.swift */,
+				CAC28B021F755C0300FE6897 /* DetailViewController.swift */,
 				CAF945E91F7173A3008A040E /* Main.storyboard */,
 				CAF945EC1F7173A3008A040E /* Assets.xcassets */,
 				CAF945EE1F7173A3008A040E /* LaunchScreen.storyboard */,
@@ -123,6 +143,21 @@
 				CAF946071F7173A3008A040E /* Info.plist */,
 			);
 			path = SlideshowAppUITests;
+			sourceTree = "<group>";
+		};
+		CAF946231F717D89008A040E /* image */ = {
+			isa = PBXGroup;
+			children = (
+				CAF946131F717D78008A040E /* neko1.jpg */,
+				CAF946141F717D78008A040E /* neko2.jpg */,
+				CAF946151F717D78008A040E /* neko3.jpg */,
+				CAF946161F717D78008A040E /* neko4.jpg */,
+				CAF946171F717D78008A040E /* neko5.jpg */,
+				CAF946181F717D78008A040E /* neko6.jpg */,
+				CAF946191F717D78008A040E /* neko7.jpg */,
+				CAF9461A1F717D78008A040E /* neko8.jpg */,
+			);
+			name = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +270,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CAF946211F717D78008A040E /* neko7.jpg in Resources */,
+				CAF946201F717D78008A040E /* neko6.jpg in Resources */,
+				CAF9461D1F717D78008A040E /* neko3.jpg in Resources */,
+				CAF9461C1F717D78008A040E /* neko2.jpg in Resources */,
+				CAF9461F1F717D78008A040E /* neko5.jpg in Resources */,
 				CAF945F01F7173A3008A040E /* LaunchScreen.storyboard in Resources */,
 				CAF945ED1F7173A3008A040E /* Assets.xcassets in Resources */,
+				CAF946221F717D78008A040E /* neko8.jpg in Resources */,
+				CAF9461B1F717D78008A040E /* neko1.jpg in Resources */,
 				CAF945EB1F7173A3008A040E /* Main.storyboard in Resources */,
+				CAF9461E1F717D78008A040E /* neko4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,6 +305,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CAC28B031F755C0300FE6897 /* DetailViewController.swift in Sources */,
 				CAF945E81F7173A3008A040E /* ViewController.swift in Sources */,
 				CAF945E61F7173A3008A040E /* AppDelegate.swift in Sources */,
 			);
@@ -514,6 +558,7 @@
 				CAF9460C1F7173A3008A040E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CAF9460D1F7173A3008A040E /* Build configuration list for PBXNativeTarget "SlideshowAppTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +567,7 @@
 				CAF9460F1F7173A3008A040E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CAF946101F7173A3008A040E /* Build configuration list for PBXNativeTarget "SlideshowAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +576,7 @@
 				CAF946121F7173A3008A040E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
